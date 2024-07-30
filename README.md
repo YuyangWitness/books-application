@@ -30,3 +30,13 @@ Angular 16 web app that is intended to search books via Google Books API and add
 - "Load more" pagination
 - Reusable elements: components, services, styles
 - Error handling
+
+### How to run unit test
+
+- Run command `npm run test`
+
+### How to get code coverage report
+
+- After run `npm run test`, it will generate a new folder `coverage` on the root project
+- Open `coverage/my-app` folder
+- Open `index.html`
